@@ -15,37 +15,40 @@ I'm a passionate software engineer with hands-on experience in both **mobile** a
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 Tech Stack
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+**Languages**  
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
-![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=apple)
-`
-### 💻 Web Development
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=c-sharp)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)
 
-### 🔧 Backend & APIs
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet)
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=c-sharp)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+**Frameworks & Platforms**  
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-05122A?style=flat&logo=dotnet)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 
-### 🧰 Tools & Platforms
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+
+**Tools & IDEs**  
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio)
+![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)
-![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+
+---
+
+## 📈 GitHub Stats
+
+![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwin811&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin811&layout=compact&theme=radical)](https://github.com/Edwin811)
 
 ---
 
@@ -54,6 +57,8 @@ I'm a passionate software engineer with hands-on experience in both **mobile** a
 - [Z-TRIP Backend API](https://github.com/Edwin811/ZTRIP-API) – ASP.NET Core (C#), PostgreSQL, Flutter Client
 - [Z-TRIP Mobile App](https://github.com/Edwin811/Z-TRIP-APP) – Flutter-based vehicle rental app for Android & iOS
 - [Salon Rama Jember](https://github.com/Edwin811/SalonRamaJember.git) – Laravel + TailwindCSS salon appointment system
+- **Roti Online** – Flutter + SQLite, Offline Mode POS
+- **IoT Tracking Apps** – Flutter Mobile, Backend with GPS Data
 
 ---
 
