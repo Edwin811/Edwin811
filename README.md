@@ -58,7 +58,7 @@ I'm a passionate software engineer with hands-on experience in both **mobile** a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edwin811&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Edwin811&show_icons=true&theme=radical&count_private=true include_all_commits=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin811&layout=compact&theme=radical" height="160"/>
 </p>
 
