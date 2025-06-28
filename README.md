@@ -90,14 +90,6 @@ I'm a passionate software engineer with hands-on experience in both **mobile** a
   Periode: 2024/2025  
   Ketua Lab: Yuandika Purnama Hartanto  
   Ketua Divisi: Yanuar Nurdiansyah, ST., M.Cs.
-
----
-
-## 🤝 Open Source Contributions
-
-- [FlutterFire Plugins](https://github.com/FirebaseExtended/flutterfire)  
-- [Awesome Flutter](https://github.com/Solido/awesome-flutter)
-
 ---
 
 ## 📫 Connect with Me
