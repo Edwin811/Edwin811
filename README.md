@@ -71,7 +71,6 @@ I'm a passionate software engineer with hands-on experience in both **mobile** a
 - [Z-TRIP Mobile App](https://github.com/Edwin811/Z-TRIP-APP) – Flutter-based vehicle rental app for Android & iOS
 - [Salon Rama Jember](https://github.com/Edwin811/SalonRamaJember.git) – Laravel + TailwindCSS salon appointment system
 - **Roti Online** – Flutter + SQLite, Offline Mode POS
-- **IoT Tracking Apps** – Flutter Mobile, Backend with GPS Data
 
 ---
 
@@ -88,7 +87,7 @@ I'm a passionate software engineer with hands-on experience in both **mobile** a
 ## 📚 Academic & Laboratory Involvement
 
 - 👨‍🔬 **Asisten Laboratorium Infrastruktur Teknologi UNEJ** (Divisi Penelitian)  
-  Periode: 2024/2025  
+  Periode: 2022 - Now  
   Ketua Lab: Yuandika Purnama Hartanto  
   Ketua Divisi: Yanuar Nurdiansyah, ST., M.Cs.
 ---
