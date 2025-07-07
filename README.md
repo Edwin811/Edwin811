@@ -2,7 +2,6 @@
 
 🚀 I'm a software developer specializing in **Flutter**, **ASP.NET Core**, and **Laravel**  
 🎓 Currently learning **AI**, **backend optimization**, and **full-stack web & mobile development**  
-💼 Working on [Z-TRIP](https://github.com/Edwin811/ZTRIP-API) – a vehicle rental platform backend  
 🌱 Exploring **SQLite**, **iOS & Android development**, and **web API with C#**
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=edwinsantoso)
